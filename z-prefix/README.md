@@ -1,1 +1,1 @@
-<h1> New App</h1>
+<h1> News App</h1>
